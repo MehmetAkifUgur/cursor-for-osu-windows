@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+*.osk
+.env
+.env.*
+.venv/
+/build/
